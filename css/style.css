@@ -31,3 +31,20 @@ h1{
 .unorderlist{
     margin-left: -28px;
 }
+
+thead{
+    background-color: aqua;
+
+}
+th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+    width: 600px;
+  }
+
+.txtwhite{
+    color: white;
+
+}

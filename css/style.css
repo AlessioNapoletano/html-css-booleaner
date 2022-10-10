@@ -1,0 +1,13 @@
+.headpage{
+    background-color: rgb(6, 141, 232);
+    background-image: url(../img/pattern.png);
+    height: 110px; 
+    background-position: center; 
+    text-align: left;
+}
+
+#headimage{
+    height: 141px;
+    width: 242px;
+}
+

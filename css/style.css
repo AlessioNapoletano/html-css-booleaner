@@ -11,7 +11,19 @@
     width: 242px;
 }
 
+.txtlightgrey{
+    color: #847e7e;;
+}
+
+.txtblue{
+    color: #0093ec;
+}
+
 h1{
     font-size: 35px;
     margin-bottom: 1px;
+}
+
+.highlighted{
+    background-color: yellow;
 }
